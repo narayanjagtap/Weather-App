@@ -1,5 +1,5 @@
 
-# 🌦️ Weather App [![Java CI](https://github.com/narayanjagtap/Weather-App/actions/workflows/maven.yml/badge.svg)](https://github.com/narayanjagtap/Weather-App/actions/workflows/maven.yml)
+# Weather App <br>[![Java CI](https://github.com/narayanjagtap/Weather-App/actions/workflows/maven.yml/badge.svg)](https://github.com/narayanjagtap/Weather-App/actions/workflows/maven.yml)
 
 A simple **Weather App** built with **Spring Boot** and **WeatherAPI** that provides real-time weather information and a 3-day forecast.  
 The app has a **REST API backend** and a **responsive frontend** built with HTML, CSS, and JavaScript.
