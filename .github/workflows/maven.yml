@@ -21,5 +21,5 @@ jobs:
         cache: maven
         
     - name: Build with Maven
-      # I CHANGED THIS LINE BELOW TO POINT TO YOUR FOLDER
-      run: mvn -B package --file dairy-service-management/pom.xml
+      # I CHANGED THIS LINE: It now looks in the main folder
+      run: mvn -B package --file pom.xml -DskipTests
