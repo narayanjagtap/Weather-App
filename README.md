@@ -5,7 +5,7 @@ A simple **Weather App** built with **Spring Boot** and **WeatherAPI** that prov
 The app has a **REST API backend** and a **responsive frontend** built with HTML, CSS, and JavaScript.
 
 ---
-
+ 
 ## ✨ Features
 - Fetch current weather by city.
 - 3-day weather forecast (limited by free WeatherAPI plan).
